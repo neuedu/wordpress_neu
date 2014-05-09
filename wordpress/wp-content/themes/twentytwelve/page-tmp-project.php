@@ -47,7 +47,7 @@
 .capstone-project .cp-title{
 	font-family: Calibri;
     font-size: 24px;
-    padding-left: 20px;
+    padding-left: 10px;
     margin-bottom: 15px;
 }
 .capstone-project .cp-main{
